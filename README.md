@@ -1,2 +1,3 @@
-# buffalo
-Simple basic Java docker image.
+# Buffalo
+
+Stage image used for building Kotlin applications.
