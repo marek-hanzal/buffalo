@@ -4,8 +4,6 @@ ENV \
     SDKMAN_DIR=/usr/local/sdkman \
     PATH="/usr/local/sdkman/candidates/java/current/bin:/usr/local/sdkman/candidates/kotlin/current/bin:/usr/local/sdkman/candidates/gradle/current/bin:$PATH"
 
-WORKDIR /opt/app
-
 USER root
 
 RUN \
