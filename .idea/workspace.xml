@@ -169,7 +169,8 @@
     <MESSAGE value="Common: Buffalo image is a bit more lightweight (based on leight alpine)" />
     <MESSAGE value="Common: Removed dependency deletation" />
     <MESSAGE value="Common: Initial fix of buffalo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Common: Initial fix of buffalo" />
+    <MESSAGE value="Common: Still messing up with GitHub actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Common: Still messing up with GitHub actions" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
