@@ -171,7 +171,8 @@
     <MESSAGE value="Common: Initial fix of buffalo" />
     <MESSAGE value="Common: Still messing up with GitHub actions" />
     <MESSAGE value="Common: Improved dockerhub stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="Common: Improved dockerhub stuff" />
+    <MESSAGE value="Common: Improved dockerhub stuff II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Common: Improved dockerhub stuff II" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
